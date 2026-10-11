@@ -13,3 +13,7 @@ Detailed schematics of the electronic circuit, incorporating the ultrasonic sens
 4. Output
 
 [# Ultrasonic-Distance-Measurement-Code](https://drive.google.com/file/d/1R323qSH3OGbPbpQkaof0X70wAAbV2W2P/edit)
+
+5. License
+
+This file is not licensed (all rights reserved). However, I kindly request that you contact me prior to making any modifications to the code.
